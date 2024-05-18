@@ -1,6 +1,5 @@
 /*
- * File: 0-positive_or_negative.c
- * Auth: Maker Joshua Malong
+ *0-positive_or_negative.c
  */
 
 #include <stdlib.h>
