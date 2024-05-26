@@ -1,8 +1,10 @@
 #include "main.h"
 #include <stdio.h>
-
-/* A function that prints all natural numbers from n to 98, followed by a new line
+/* A function that prints all natural numbers */
+/*from n to 98, followed by a new line.*/
+/**
  * print_to_98 - print all natural numbers from n to 98
+ *
  * @n: parameter n for the function
  * Return: Always void
  */
