@@ -5,7 +5,7 @@
  * Return: a string
  */
 
-int _strlen_recursion (char *)
+int _strlen_recursion(char)
 {
 	if(*s != '\0')
 	{
