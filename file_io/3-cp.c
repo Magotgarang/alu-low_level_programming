@@ -18,7 +18,6 @@ int main(int argc, char *argv[])
     int file_from, file_to;
     ssize_t nread, nwrite;
     char buffer[1024];
-    mode_t mode;
 
     if (argc != 3)
     {
@@ -76,4 +75,3 @@ int main(int argc, char *argv[])
 
     return (0);
 }
-
